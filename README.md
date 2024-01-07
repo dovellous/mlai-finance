@@ -1,4 +1,8 @@
-# Advanced Sample Hardhat Project
+#MLAI FINANCE
+
+ DeFiRisk is a DeFi solution that uses AI and ML to detect and prevent fraud and malicious activities in the decentralized finance ecosystem. DeFiRisk leverages smart contracts, blockchain data, and external sources to monitor, analyze, and flag suspicious transactions and actors. DeFiRisk also provides risk scores and recommendations for DeFi users and protocols to enhance their security and trustworthiness.
+ 
+ # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
